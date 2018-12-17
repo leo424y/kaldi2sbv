@@ -1,215 +1,301 @@
-sw02001-A_000000-288005-197914-198513 a1-pah4 kong2
-sw02001-A_000000-288005-198513-198929
-sw02001-A_000000-288005-198929-199623
-sw02001-A_000000-288005-199623-200022 ai3 ing7 ping5-siong5 sim1 khi3 khuann3 tai5
-sw02001-A_000000-288005-200022-202721
-sw02001-A_000000-288005-202721-203609 pa1-pa1 bo5 huat4-too7 si2-lang5
-sw02001-A_000000-288005-203609-204509 ka1-tsai3 an2-ne1 tsiok4 thiann3-sioh4 li2
-sw02001-A_000000-288005-204509-205005 gua2 tsin1 hong3-sim1 lah4
-sw02001-A_000000-288005-205005-205312 ooh4
-sw02001-A_000000-288005-205312-205724
-sw02001-A_000000-288005-205724-206219 hue3-thau5 tsiah8 lah4
-sw02001-A_000000-288005-206219-207028 ang1-a2-boo2 uan1-ke1 lah4
-sw02001-A_000000-288005-207028-207517 nng7 khuan2
-sw02001-A_000000-288005-207517-207927 tsai7 sim1-thau5
-sw02001-A_000000-288005-207927-209112 huat4-too7 tshin1-tshiunn7 siau3-lian5 e5 si5-tsun7 an2-ne1 tong7 mng5 khi3 ka7 li2 khioh4
-sw02001-A_000000-288005-209112-209600 lin2 thuan5 niu7 i1 neh4
-sw02001-A_000000-288005-209600-209905 gua2 khi3 tsio1-i1
-sw02001-A_000000-288005-209905-210617 an2-ne1 to7 phainn2-se3 lah4
-sw02001-A_000000-288005-210617-210918 pah4
-sw02001-A_000000-288005-210918-211721 siann2-mih4 ue7 to1 e5 sia7-hue7
-sw02001-A_000000-288005-211721-212127 gua2 e5 tsa1-boo2-kiann2
-sw02001-A_000000-288005-212127-212927 guan2 na2 kan1-khoo2 kan1-khoo2
-sw02001-A_000000-288005-212927-213220 bo5
-sw02001-A_000000-288005-213220-214205 ai1-io7-ue5 ah4
-sw02001-A_000000-288005-214205-220011
-sw02001-A_000000-288005-220011-220117 i1-sing1
-sw02001-A_000000-288005-220117-220229 tshiunn3-tshut4 tsing1-sin5
-sw02001-A_000000-288005-220229-220521 kong2 tsun5-tsiah4 ma7 i2-king1 kong2
-sw02001-A_000000-288005-220521-220621 sio2-tan2 leh4
-sw02001-A_000000-288005-220621-220717 to7 e7-tang3 tue3 tshuan3-thong1
-sw02001-A_000000-288005-220717-221200 e5 tso3-huat4
-sw02001-A_000000-288005-221200-221300 to1-sia7
-sw02001-A_000000-288005-221300-221322
-sw02001-A_000000-288005-221322-221412 to1-sia7 li2
-sw02001-A_000000-288005-221412-223722 ting1-a2
-sw02001-A_000000-288005-223722-224110 kui2-lo7 kang1 honnh4 khuann3-tioh8 tsiah4 e5 su7 ah4 lah4
-sw02001-A_000000-288005-224110-224601 ti7 tsia1 sing1-uah8
-sw02001-A_000000-288005-224601-225028 gua2 khuann3 lin2 tsiu7 siunn7 ing7 lah4
-sw02001-A_000000-288005-225028-225410 tsiah4-ni7 tse7 kang1 honnh4 bo5 siunn7 sian7 tsiah4 e7 huah4 gua2 thau1-tsau2
-sw02001-A_000000-288005-225410-225715 tshiu1-tshiu1-tshiu1
-sw02001-A_000000-288005-225715-225824 gua2 ma7 si7
-sw02001-A_000000-288005-225824-226426 hennh4 ah4 long2 kam2-kak4 kui1-sin1-khu1 kuai3-kuai3 la3
-sw02001-A_000000-288005-226426-227023 siunn7 be7 kau3 ma7 sng3 mi7-pau1
-sw02001-A_000000-288005-227023-227428 tsit4-ma2 tak8-ke1 long2 kong2 li2 si7 ka1-ti7 e5 sian1-ti1
-sw02001-A_000000-288005-227428-227723 an2-ne1 gua2 to7 si7 nng7-ting5-phue5
-sw02001-A_000000-288005-227723-228117 tong1-lian5 ma7 ai3 lai5 tau3-sann1-kang7
-sw02001-A_000000-288005-228117-228505 koh4-tsai3 kong2 li2 tsiah4 thang1 uan5-sing5 lah4
-sw02001-A_000000-288005-228505-228817 ah4 sin1-the2-ooh4 bo5-ho2 ai3 ke1 hioh4-khun3
-sw02001-A_000000-288005-228817-229228 ah4 tshoo1-tang7 e5 khang1-khue3 kau1 hoo7 tak8 ho7
-sw02001-A_000000-288005-229228-229629 i2-tsing5 si7
-sw02001-A_000000-288005-229629-230309 tsit4-ma2 si7 lah4
-sw02001-A_000000-288005-230309-230611 khah4-tsa2 honnh4 li2 thiann1 gua2 e5
-sw02001-A_000000-288005-230611-230913 ah4 tsit4-ma2 gua2 thiann1 li2 e5
-sw02001-A_000000-288005-230913-232611 an2-ne1 jua7 kong1-penn5 e5
-sw02001-A_000000-288005-232611-232727 tsit4 tuann7 si5-kan1 bo5 lah4
-sw02001-A_000000-288005-232727-233414 ah8 tsia1-e5 tshiu7-a2 honnh4 kann2-na2 u7 khah4 kuan5 neh4
-sw02001-A_000000-288005-233414-233920 kam2 u7-iann2 oo3 gua2 khuann3 tsha1-put4-to1 neh4
-sw02001-A_000000-288005-233920-234229 tshiu7-a2 honnh4 a1 senn1 liau2 it4-ting7 e7 kuan3
-sw02001-A_000000-288005-234229-234416 to7 to3-khi3 pan1-thau5 lah4
-sw02001-A_000000-288005-234416-234702 bo5 lah4 khak4-sit8 u7 khah4 kuan5 lah4
-sw02001-A_000000-288005-234702-235321 li2 khuann3 hoo7 tshing1-tsho2 lah4 u7 ah4
-sw02001-A_000000-288005-235321-235819 gua2 khuann3 honnh4 tsha1-put4-to1 lah4
-sw02001-A_000000-288005-235819-235924 m7 si7 an2-ne1 khuann3
-sw02001-A_000000-288005-235924-236207 lai5 lah4 ah4 ui3 tsit4 ping5 khuann3
-sw02001-A_000000-288005-236207-236419 tsit4 e5 kak4-too7 khuann3 honnh4 to7 khuann3 e7-tshut4-lai5
-sw02001-A_000000-288005-236419-236810 li2 khuann3 u7 bo5
-sw02001-A_000000-288005-236810-237208 ho2 lah4 ho2 lah4 ah4 li2 kong2 an2-ne1 to7 an2-nua2-lah4
-sw02001-A_000000-288005-237208-237520 ah4 kam2-kong2 m7-si7
-sw02001-A_000000-288005-237520-238024 tsiah4 e7 tshio3-tshio3-a2 honnh4 long2 si7 khah4-tsa2 tih4 tshin1-tshiunn7 tsing5 e5 lah4
-sw02001-A_000000-288005-238024-238322 to7 tshan1-tshiunn7 si7 ka1-ki7 e5 kiann2 kang7-khuan2
-sw02001-A_000000-288005-238322-238714 ah4 to1-tsing5 e5 pe7-bu2 honnh4 ah8 bo5 hi1-bang7 ka1-ki7 e5 kiann2-ooh4
-sw02001-A_000000-288005-238714-238914 kau1-tshiang5 tua7-han3
-sw02001-A_000000-288005-238914-239204 gua2 e7-tang3 the2-hue7 li2 e5 sim1-tsing5 lah4
-sw02001-A_000000-288005-239204-239600 gua2 si7 kong2 tsiann5-sit8 e5 lah4 khak4-sit8 u7 khah4 kuan5 lah4
-sw02001-A_000000-288005-239600-240002 bo5 an2-ne1 lah4 ah4 sio2-niu5 lah4
-sw02001-A_000000-288005-240002-240206 ho2 ah4 ah4 li2 beh4 an2-nua2 niu5 lah4
-sw02001-A_000000-288005-240206-240418
-sw02001-A_000000-288005-240418-240607 lim5 sian1-sinn1 lim5 thai3-thai3
-sw02001-A_000000-288005-240607-240802 haih4
-sw02001-A_000000-288005-240802-241204 a1-lu1-a2 tsing3-hu2 bo5 kinn3-bin7 lah4
-sw02001-A_000000-288005-241204-241323 tse1 si7 lin2 e5 sun1-ooh4
-sw02001-A_000000-288005-241323-241601 honnh4 gun2 e5 te7-ji7-e5 senn1 lah4
-sw02001-A_000000-288005-241601-241707 lua7-tua7
-sw02001-A_000000-288005-241707-241903 tit4-beh4 tua7-tse2 ah4 lah4
-sw02001-A_000000-288005-241903-242115 tsiok4 koo2-tsui1-e5 neh4
-sw02001-A_000000-288005-242115-242612 gua2 tak8 kang1 e7-poo1 honnh4 long2 ai3 suah4 i1 lai5 tse7 tshiu7-kha1 tsia1 san3-poo7 lah4
-sw02001-A_000000-288005-242612-242823 ah4 na7 am3-tng3 ooh4 tsiau2-a2
-sw02001-A_000000-288005-242823-243211 kui1-ke1-hue2-a2 puann1 i2-a2 se3-ji7-leh4 tshiu7-a2-kha1 tsiah8 ho2-liau7
-sw02001-A_000000-288005-243211-243517 e7 ling2-khi3 ui3 honnh4
-sw02001-A_000000-288005-243517-243805 an2-ne1 tsiok4 ho2 e5 lah4
-sw02001-A_000000-288005-243805-244117 lim5 sian1-sinn1 a2-si7 li2 honnh4 khah4 u7 uan2-kian3
-sw02001-A_000000-288005-244117-244412 lang5 si7 li2 tong1-tshoo1 honnh4 kian1-tshi5 beh4 tsin3-jip8 tai7-tsi3
-sw02001-A_000000-288005-244412-244701 ah8 tsit4-ma1 na2 e7 tsiah4-ni7-a2 tse7 ho2-tshu3 lah4
-sw02001-A_000000-288005-244701-244803 bo5 lah4
-sw02001-A_000000-288005-244803-245120 au7 u7 siunn7-huat4 ma7 ai3 tso3 ho2 a1 guan7-i3 phue3-hap8
-sw02001-A_000000-288005-245120-245403 tse1 si7 tak8-ke1 e5 hok4-khi3 lah4
-sw02001-A_000000-288005-245403-245628 tioh8 lah4 ah4 gua2 sing1 lai5-tsau2 lah4
-sw02001-A_000000-288005-245628-246125 honn1 sai1-le5 ho2
-sw02001-A_000000-288005-246125-246513 m7 si7 ian5-tshian5 than3-tsinn5 than3 lah4
-sw02001-A_000000-288005-246513-246703 eh4 gua2 na2 tse7 khiau1 ah4
-sw02001-A_000000-288005-246703-247104 tsap8 kui2 ni5 tsing5 to7 siunn7-tioh8 song1-su7 tsit8 tsiah4 ho2
-sw02001-A_000000-288005-247104-247303 tu2 a2 ho2 lah4
-sw02001-A_000000-288005-247303-247422 huann1-hi2 kah4 an2-ne1
-sw02001-A_000000-288005-247422-247628 ah4 tu2-a2-ho2 ma7 ai3 u7 siunn7-huat4
-sw02001-A_000000-288005-247628-248016 a1-pah4 ma7 bo5 lang5 na7 kio3 gua2 tshong1-bing5-a2
-sw02001-A_000000-288005-248016-248324 sui2 bin7 la1
-sw02001-A_000000-288005-248324-250113 eh4
-sw02001-A_000000-288005-250113-250217 bo5 iau3-kin2 lah4
-sw02001-A_000000-288005-250217-250519 ah4 lan2 e7-tang3 tsing3 pat8-hang7 e5 tshiu7-a2 lah4
-sw02001-A_000000-288005-250519-251417 to7 tshan1-tshiunn7 hia1 kang7-khuan2 neh4
-sw02001-A_000000-288005-251417-251903 hoo7 lin2 biat8-bo5 lin2 tham5-a2 lai7
-sw02001-A_000000-288005-251903-252528 tshing1-sng3 i2-sia3-a1 ooh4 haih4 haih4
-sw02001-A_000000-288005-252528-252919 a1 li2 hia1 tse7 lah4
-sw02001-A_000000-288005-252919-253214 te7 siok8 gua2
-sw02001-A_000000-288005-253214-253407 song3 tiau5 e5 ai3
-sw02001-A_000000-288005-253407-253812 ho2
-sw02001-A_000000-288005-253812-254110 hann5 a2 be7
-sw02001-A_000000-288005-254110-254309 bin5-tsiong3 sio1-tak4
-sw02001-A_000000-288005-254309-254528
-sw02001-A_000000-288005-254528-254804
-sw02001-A_000000-288005-254804-255006 tsin1 kho2-lian5
-sw02001-A_000000-288005-255006-255205 ah4 ku7-sian1 tshut4-lai5
-sw02001-A_000000-288005-255205-255401 lau7 bok8-su1 e5 tshiu7-ling1
-sw02001-A_000000-288005-255401-255610 tu5-hui1 si7
-sw02001-A_000000-288005-255610-255711
-sw02001-A_000000-288005-255711-255814 haih4
-sw02001-A_000000-288005-255814-255900
-sw02001-A_000000-288005-255900-256029 tsu2-hu7
-sw02001-A_000000-288005-256029-256128 ke3-sing5
-sw02001-A_000000-288005-256128-256401 kap4 lai5 tsue3-tsiann5 e5 ue7
-sw02001-A_000000-288005-256401-256613 sit4-le2
-sw02001-A_000000-288005-256613-256725 o1
-sw02001-A_000000-288005-256725-256908
-sw02001-A_000000-288005-256908-257110 bue7-uan5
-sw02001-A_000000-288005-257110-257309 he3 tsue3 tsit8-e7 lah4
-sw02001-A_000000-288005-257309-257608
-sw02001-A_000000-288005-257608-257727
-sw02001-A_000000-288005-257727-257920 eh4 lah4
-sw02001-A_000000-288005-257920-258116 hing5 su7
-sw02001-A_000000-288005-258116-258720 hau7-sinn1 ai3 uah8
-sw02001-A_000000-288005-258720-259128 ooh4
-sw02001-A_000000-288005-259128-259317 nai7 e5 ue7
-sw02001-A_000000-288005-259317-259503 lim5 thai3-thai3
-sw02001-A_000000-288005-259503-259712
-sw02001-A_000000-288005-259712-259905 lut8-su1
-sw02001-A_000000-288005-259905-260011
-sw02001-A_000000-288005-260011-260201 tshing1-sng3
-sw02001-A_000000-288005-260201-260415 ai3 tsun1-siu2 sun2-sit4
-sw02001-A_000000-288005-260415-260523 tsiau1-hong5
-sw02001-A_000000-288005-260523-260718 u7-sin1 put4-tan7 bue7 uah8
-sw02001-A_000000-288005-260718-260914 hai2-tsui2 ang5 tang1 mng5
-sw02001-A_000000-288005-260914-261206
-sw02001-A_000000-288005-261206-261421 sue1-bue2-to7-jin5
-sw02001-A_000000-288005-261421-261928
-sw02001-A_000000-288005-261928-262106 eh4
-sw02001-A_000000-288005-262106-262412 tshu2-su2
-sw02001-A_000000-288005-262412-262729 piau2-si7 tua7-tshiunn7
-sw02001-A_000000-288005-262729-262928 eh4
-sw02001-A_000000-288005-262928-263114
-sw02001-A_000000-288005-263114-263502 siann2-tsai1 si7 tong1-jian5 e5
-sw02001-A_000000-288005-263502-263612 e5 tsun5-tsiah4
-sw02001-A_000000-288005-263612-263708 aih4-ioh4
-sw02001-A_000000-288005-263708-263917 tong1-tshue1-si5 ho2
-sw02001-A_000000-288005-263917-264122
-sw02001-A_000000-288005-264122-264318
-sw02001-A_000000-288005-264318-264411
-sw02001-A_000000-288005-264411-264500 tse1 si7 lah4
-sw02001-A_000000-288005-264500-265500 ooh4 ho2
-sw02001-A_000000-288005-265500-265813 suah4
-sw02001-A_000000-288005-265813-266210
-sw02001-A_000000-288005-266210-266514
-sw02001-A_000000-288005-266514-266604 pa5-a2
-sw02001-A_000000-288005-266604-266617
-sw02001-A_000000-288005-266617-266726 kho3-huann7 a1
-sw02001-A_000000-288005-266726-267108 tu2-ho2 lang5 ah4 lin2 long2 ti7 tsia1 ooh4
-sw02001-A_000000-288005-267108-267429 na2
-sw02001-A_000000-288005-267429-267727 u7 siann2-mih4 tai7-tsi3 ah4
-sw02001-A_000000-288005-267727-268120 i1 to7 suah4 a1
-sw02001-A_000000-288005-268120-268216 eh4
-sw02001-A_000000-288005-268216-268329
-sw02001-A_000000-288005-268329-268521 pah4
-sw02001-A_000000-288005-268521-268704 koh4 hau2
-sw02001-A_000000-288005-268704-268816 li2 na2 kong2
-sw02001-A_000000-288005-268816-269504 kim3-khui3
-sw02001-A_000000-288005-269504-270011 ho2 lah4 gua2 tah4-ing3 lah4
-sw02001-A_000000-288005-270011-270507 ti7 tai5 lam5 ngoo5 tsau5-biat8 e5 pinn3-siann2-bang2 lah4
-sw02001-A_000000-288005-270507-270714 pah4 tu2-tsiah4 sin1-bun5 li2 poo2
-sw02001-A_000000-288005-270714-270827 lan2 tau1 hu3-kin7 hit4 tiau5
-sw02001-A_000000-288005-270827-271112 ho2 kuan7-tsing3-hu2 tsit4-ma2 beh4 siu1-li2 tsuan2-tsiah8
-sw02001-A_000000-288005-271112-271321 sun7-li7 pue5-ling5-hue7 beh4 tshian1-li2
-sw02001-A_000000-288005-271321-271615 to7 ka7 i1 ta1-sau3 tshun1 kuan5-kuan5 in1-ho5
-sw02001-A_000000-288005-271615-271812 tsiann5-sit8-e5 ooh4
-sw02001-A_000000-288005-271812-271928 an2-ne1 tsiok4 ho2 neh4
-sw02001-A_000000-288005-271928-272409 iu2-kuan1 tan1-ui7 honnh4 tsong2 sng3-si7 bun7-te5 ah4 lah4
-sw02001-A_000000-288005-272409-272624 si7 a1 li5-tshiann2 kuan1-he7
-sw02001-A_000000-288005-272624-272823 m7-koh4 kong2 tsi2-iau3 u7 sin3-sim1
-sw02001-A_000000-288005-272823-273026 kang1-hu1 tsit8-hang7 goo7-tshing1 hi5-tshuan1 sing5-kong1
-sw02001-A_000000-288005-273026-273229 ia7 ka7 i1 pian3-tso3 bin5-tsiong3 e5 siau1-sit4
-sw02001-A_000000-288005-273229-273515 tsit4 hang7 su7 koh4 e7-tang3 tai3-tong7 kuan1-kong1
-sw02001-A_000000-288005-273515-273900 tong1-ngoo5
-sw02001-A_000000-288005-273900-274019
-sw02001-A_000000-288005-274019-274209
-sw02001-A_000000-288005-274209-274311 si7-ah4 si7-ah4
-sw02001-A_000000-288005-274311-274520 tsin1-tsiann3 si7 tsiok4 lam2 khi2-lai5
-sw02001-A_000000-288005-274520-274706 si2-sin5
-sw02001-A_000000-288005-274706-275200
-sw02001-A_000000-288005-275200-275416 huann1-hi2 kah4 siunn1 kue3 tsa2 lah4
-sw02001-A_000000-288005-275416-275615 tse1 si7 khai1-si2 nia5
-sw02001-A_000000-288005-275615-276101 ah8 bi7-lai5 honnh4 iah4-koh4 u7 tsiok4 tng5 e5 loo7 ai3 kiann5 lah4
-sw02001-A_000000-288005-276101-276703 iah4-m7-koh4-honnh4 sim1 ing2-uan2 long2 be7 tiam7 ah4 lah4
-sw02001-A_000000-288005-276703-277325 tioh8 lah4 li2 iau2 u7 sin3 bo5 ing2-uan2 long2 be7 hiam5 ban7
-sw02001-A_000000-288005-277325-277620 to7 sng3-kong2 honnh4 lan2 tso3 be7 tin2-tang7 lah4
-sw02001-A_000000-288005-277620-277812 iah4-koh4 u7 gin2-a2
-sw02001-A_000000-288005-277812-278109 an2-ne1 tsit8 tai7 thuan5 tsit8 tai7
-sw02001-A_000000-288005-278109-288005 tsong2-u7 tsit8 kang1 honnh4 tsuat8-tui3
+sw02001-A_000000-534929-0000000-0002754
+sw02001-A_000000-534929-0002754-0005508
+sw02001-A_000000-534929-0005508-0008262
+sw02001-A_000000-534929-0008262-0011016
+sw02001-A_000000-534929-0011016-0013769
+sw02001-A_000000-534929-0013769-0016524 liu5-long7
+sw02001-A_000000-534929-0016524-0019283 hi1-bong7
+sw02001-A_000000-534929-0019283-0020928
+sw02001-A_000000-534929-0020928-0022573
+sw02001-A_000000-534929-0022573-0023989 phoo1-kio5-tso7-loo7 bun5 bo5 siann2
+sw02001-A_000000-534929-0023989-0024200 kim1-ia7 li2 khuann3 le2-mih8 loo7
+sw02001-A_000000-534929-0024200-0026941 li2 beh4 tso3 a1-hiann1 lin2 a1-tsi2 khong3-ia2 li2 nia7-nia7 na7-si7 sian1-sinn1 bian2-tit4 li2 hoo7 li2
+sw02001-A_000000-534929-0026941-0029683 tioh8 na7 me1-me1 guan2 ka1-im1 e5 kam2 an2-ne1
+sw02001-A_000000-534929-0029683-0031589 ah4
+sw02001-A_000000-534929-0031589-0033070
+sw02001-A_000000-534929-0033070-0034546 ang5-enn1-a2 mng7-iann5 hoo7 gua2 khi3-the2 lai5 mai3 tui3 hia1 lai5 tsue3 tu2-a2 lai7-te2 pho7 gua2 i2-king1 ka7 li2 kong2 kue3 mui5-kai3
+sw02001-A_000000-534929-0034546-0035960 li2 ki5-to2 hong7-iong2 hue5-ing3 an2-ne1 tsa1-boo2 gin2-na2 tsau2 be7-kian3-siau3 neh4
+sw02001-A_000000-534929-0035960-0037457 gua2 kan1-na1 beh4 an2-tsuann2 siunn7-beh4 li2 iau5-uan2 piann3-piann3-leh4 lin2 sia7-hue7 kuann2-kin2 khi3 tsit8 phuah4-sio1-tsui2 jip8-lai5 siang7 beh4 khi3 hannh4 sio1-tsui2 jip8-khi3
+sw02001-A_000000-534929-0037457-0038925 gua2 thiann1 gua2 khi3 gua2 the3 sio1-khi3 jip8-khi3 khuann3 phai3-he7 li2 khah4 senn1-jit8 uan3-than3 kau3-iok8 senn1-jit8 tsit4 tiam2 bo5 to1-sia7
+sw02001-A_000000-534929-0038925-0040416 li2 mai3 tue3 tsui2 bo5 koh4 gua7-khau2 e5 thang1 koh4 it4-ting7 tsit8-kua2 tsha5 lai5 lim5
+sw02001-A_000000-534929-0040416-0041880 pau1 mai3-kiann1 jip8-khi3 tsha5-pang1-a2 soo1-soo1-soo1 thoo5-thoo5-thoo5 ti7 tsia1 e5 kiann2 le2-but8 gua2 khuann3 hoo7 li2 m7-kann2 khi3 gua2 m7 kann2 i1 ia7 kiann5 bak8-kiann3 lang5-giah8
+sw02001-A_000000-534929-0041880-0043374 tsiah4 m7-kann2 si7 kau3-giah8 gua2 hong1-siann1 kiann1-hiann5 an2-tsuann2
+sw02001-A_000000-534929-0043374-0044736 heh4-kiann1 si7-bo5 thinn1 iau2 be7 am1-leh4 li2 ti7 e5 kiann1-siann5 siong3-kong1 uan1-khiau1
+sw02001-A_000000-534929-0044736-0046222 li2 mai3 nia2
+sw02001-A_000000-534929-0046222-0047715
+sw02001-A_000000-534929-0047715-0048548
+sw02001-A_000000-534929-0048548-0050014 hm5
+sw02001-A_000000-534929-0050014-0050668 tsing3-kheh4 khah4 ban7 honnh4
+sw02001-A_000000-534929-0050668-0052445
+sw02001-A_000000-534929-0052445-0054223 iah4-m7-koh4 bin7 ma7 si7 it4-tit8 siong7
+sw02001-A_000000-534929-0054223-0055679 li2 beh4 khi3 lau7-ia5 hu7-jin5 si7 tsit8 e5 tshian2-kian3 lah4 gua2 e5 koh4 kin1-a2-jit8 leh4 beh4 hoo7 phun5-tsai1 tioh8 ho2
+sw02001-A_000000-534929-0055679-0057172 it4-tit8
+sw02001-A_000000-534929-0057172-0058654
+sw02001-A_000000-534929-0058654-0060135 gun2 e5 gin2-a2 jip8-khi3 khuann3-mai7 bo5 sio2-tan2 e5 tsit4-ma2 iah8 be7-ing7-tit4 khi3 hoo7 i1 e5 jit8-tsi2 ma7 u7 me1-me1 oo1 si7 tsit4-lo7 me1-me1 ah4 gua2 beh4 ti7 bi2-ka1 pho7
+sw02001-A_000000-534929-0060135-0061537 khuann3 bun5-tsiong1 tua7-kio5-kha1 huat4-kue2 beh4 an2-tsuann2 li2 bat4 tshong3-siann2
+sw02001-A_000000-534929-0061537-0063013 siong1-tong1 li2 mai3 koh4 tsha5
+sw02001-A_000000-534929-0063013-0064186 hooh4 im1-gak8 kim1-kong1-siam2-siam2 it4-tit8 tshut4-si3
+sw02001-A_000000-534929-0064186-0066017
+sw02001-A_000000-534929-0066017-0067849
+sw02001-A_000000-534929-0067865-0069511
+sw02001-A_000000-534929-0069511-0071158
+sw02001-A_000000-534929-0071158-0072623 beh4 kue3 ho2 hoo7 lin2 khng3 ti7 tsia1 honnh4 tak8-ke1 tsit8-nia2 san3-poo7 kong2-ue7 tsit4-si5 loh8-lai5 tng5-bue2-tshenn1 bue2-khau2 tsit4 e5 gin2-na2
+sw02001-A_000000-534929-0072623-0073964 ki3-lian5 bue7 tsha5 bue2-khau2 na7 an2-ne1 ti7 kio3 i1 uan1-iunn1 ho2
+sw02001-A_000000-534929-0073964-0074540 buat8-niu5 a1-ma2 li2-e5 tui3-huann7 tshiu7-na5 tsiok4 koo2-tsui1-e5
+sw02001-A_000000-534929-0074540-0077377
+sw02001-A_000000-534929-0077377-0080214 lai5 in1 nng7 e5 guan5-iu2 sin3-tsia2 nng7 an2-ne1 kun1-pun2 to7 m7 si7 lan2 tui3-tshiu2 li2 kong2 tioh8 bo5 kiann5
+sw02001-A_000000-534929-0080214-0083051 sann1 liah8
+sw02001-A_000000-534929-0083051-0085888
+sw02001-A_000000-534929-0085888-0088725 sin1 e5
+sw02001-A_000000-534929-0088725-0091563
+sw02001-A_000000-534929-0091563-0092387 ho2 ping5-iu2 ho2-ho2
+sw02001-A_000000-534929-0092387-0093860 guan5-liong7 kuann2-kin2 kuann2-kin2 e5
+sw02001-A_000000-534929-0093860-0095090 lah4 a1-tia1
+sw02001-A_000000-534929-0095090-0096542 a1-nia5 a1-tsi2
+sw02001-A_000000-534929-0096542-0098023 nia2 khah4-tse7 a1-nia5 m7 ho2 phoo5-sat4-niu5-niu5 kam2-sia7 li2 put4-bing5 na7-tiann7 ping5-an1 tng2-lai5 buat8-niu5 hoo7 gun2 beh4 lai5-khi3 bio7-hue7 khuann3-koo3
+sw02001-A_000000-534929-0098023-0099486 li2 bi2-kok4 tshua7 i1 an2-nia5 sio2-tan2 e5 kun1-ong5 beh4 khi3 khuann3 hoo7 gua2 ti7 tsia1 lah4 si7 koh4 m7 khing2 ah4 lau7-lang5 thau3-tiong1-tau3 khi3 khuann3 koo2-a2-ting1
+sw02001-A_000000-534929-0099486-0100500 khun1-hong1 a1-nia5 liu5-long7-kau2 be7 an2-nia5
+sw02001-A_000000-534929-0100500-0101529 kann2 sui2 e5 ooh4
+sw02001-A_000000-534929-0101529-0103241 gua2 ma7 an2-nia5 u7 lang5 kin7-tsian5 e5 khuann3 tioh8 neh4
+sw02001-A_000000-534929-0103241-0104954 lai5-khi3
+sw02001-A_000000-534929-0104954-0106324 bo5-tai7-tsi3 hu7-bio2 si7 beh4 lai5 tui3 sng3 khuann3-mai7-a2 li2 pai2 sng3 ah4 lah4
+sw02001-A_000000-534929-0106324-0107808 buat8-niu5 mai3 an2-ne1 tsau2-lai5-tsau2-khi3 lang5 long2 ma7 tsan5-tshu3 tsa1-boo2 gin2-na2
+sw02001-A_000000-534929-0107808-0109251 sio1-kinn3 mai3 lai5 kuann2-tshut4-khi3 na7 e5 lua7 e5 oo1 koh4 lai5-khi3 tsiah4 pau1-a2
+sw02001-A_000000-534929-0109251-0109567 an2-ne1 tsiok4 hui1-siong5 bo5-tai7-tsi3 bo5-tai7-tsi3 lah4
+sw02001-A_000000-534929-0109567-0111027 gua2 bat4 lai5 ke1-thau5 tsiong1 tsit4 e5 m7 ho2 tsit4 e5 pau1-a2 tshiann2 li2 tsia1 tsun2-pi7
+sw02001-A_000000-534929-0111027-0112322 i5-sang3 tau3-sann1-kang7 m7 tsik4-tik4 him1-sian7-i1 kah4 e5 gin2-na2 ka1-na5-ia5
+sw02001-A_000000-534929-0112322-0113679 a1-bu2 ho2
+sw02001-A_000000-534929-0113679-0115141 li2 tshut4 sian1-sinn1 tiam3 hue3 e5 mia5 ho2
+sw02001-A_000000-534929-0115141-0116529 ah4
+sw02001-A_000000-534929-0116529-0117971 tsiok4 ki5-kuai3 tsiu7-i1 phoo5-sat4 hoo7 gua2 kam2-kak4 tsiok4 tshin1-tshiat4 e5 ho2-tshan1-tshiunn7 li7-too5 bat4 khuann3-kue3 phoo5-sat4-niu5-niu5 tshiann2 li2 poo3-pinn5 tshun1-a2-lai7 tua7
+sw02001-A_000000-534929-0117971-0119395 tua7-se3 senn1 a1-tia1 a1-nia5 a1-hiann1 a1-tsi2 mui2 tsit8 e5 lang5 long2 e7-tang3 ping5-an1 kian7-khong1 tsiah8-pa2 li2 buan2-hun1 tsit8-siang1
+sw02001-A_000000-534929-0119395-0121430 niu5 si7 bi2-le7 kau3 kong2-ue7 ooh4
+sw02001-A_000000-534929-0121430-0123465 siu7 hun1-tsoo1 tsai1 kan1-khoo2 li2 phoo5-sat4-niu5-niu5 ho2-ho2-a2 i1 gua2 ing1-kai1 beh4 an2-nua2 tso3 suan2 thong3-khoo2 tsai1 kuan1-im1-niu5-niu5
+sw02001-A_000000-534929-0123465-0125501 suan2 hoo7 gua2 iunn5-a2 kok4-tsiong2 khun3-lan5 to7 ui1-hiap8 liap8 tsiong1-lai5 tng2-khi3 gua2 it4-gueh8 tsau2-tshia1 li2 te7 ho7 kong2 kiong5-tshiunn2 li2 tsainn2-iunn7 si7 suan2 tong1-kim1 tso3 u7 huat8-tsinn5 tshiann2-mng7 phoo5-sat4-niu5-niu5
+sw02001-A_000000-534929-0125501-0126986 ai3 kau3 siann2-mih4 si5-tsun7 khoo1 tsiah4 e7-tang3 tng2-khi3 li2 e5 sin1-khu1-pinn1 kuan2-khu1 ma7 tsong1-tsok8 ka7 lin2 kong2 loo7-too5 ti7 e5 soo2-tsai7 jit8-tsi2 lai5-se3 liah8 e5 bin7-tsing5 loh8-suann1-hong1 hak8-sip8 kong2-huat4
+sw02001-A_000000-534929-0126986-0128470 kai2-kiu3 lai5 khuann3 loo7-tiong1 e5 thian1-ha7 si7 phoo5-sat4-niu5-niu5 ti7 tsia1 li2 ti7 teh4 kong2 gua2
+sw02001-A_000000-534929-0128470-0129934 kong2 lin2 bo5 beh4 bue7 guan5-lai5 he1 si7 to7 tsiah4 phoo5-sat4 sin1-khu1 pi2-tshiu2-ue7-to1 tiunn1 ooh4 na7 bo5
+sw02001-A_000000-534929-0129934-0131357 tioh8 gua2 ma7 si7 thak8 tu2-a2 hit4 ui7 khit4-tsiah8 lah4 ia7 ho2 to7-tiunn5 tsai7-siong7 te7-tsu2 iu5 neh4 ha1 ha1 ha1
+sw02001-A_000000-534929-0131357-0132820 bian2 le5 bian2-le7 suan2 niu5 iong7 phue1 hi5 si7 kuan1-im1-phoo5-sat4 kio3 gua2 ai3 kau3 li2 e5 bin5-a2-tsai3 khai1-si2 gua2 e5 tai7-the3 phoo5-sat4 lai7-tue2
+sw02001-A_000000-534929-0132820-0134299 ti3-sik4 kah4 tse3-se3-kiu3-lin5 i1 hak8-bun7 hoo7 li2 thau5-sia7 lah4
+sw02001-A_000000-534929-0134299-0135781 li2 tsit8-pian3 khi3 siunn7-khi2 a1-nia5
+sw02001-A_000000-534929-0135781-0137016 be7-hiau2 hak8-sing1 khah4-tsa2 tsng1 ai3 sit8-tsai7 tsai7-ke1 a1-tia1 nia2 a1-hiann1 tsit4 e5 se3-kai3
+sw02001-A_000000-534929-0137016-0138187
+sw02001-A_000000-534929-0138187-0138698
+sw02001-A_000000-534929-0138698-0140943 loo7
+sw02001-A_000000-534929-0140943-0141859 a2-si7 gua2 long2 bo5 te7-it4 na7 a1-kuan1-a1 ah4 a1 ma2 han3-ji7 ah4 lah4 li2
+sw02001-A_000000-534929-0141859-0144183 ooh4
+sw02001-A_000000-534929-0144183-0146508 se3 thang1 beh4
+sw02001-A_000000-534929-0146508-0147251 kng1 koo1-niu5 kin2
+sw02001-A_000000-534929-0147251-0148531 si1-tsu2 boo2
+sw02001-A_000000-534929-0148531-0149967 li2 phue5-kau5-hi3 gua2 siunn7 ho2 lah4
+sw02001-A_000000-534929-0149967-0150911 kah4 se3-han3 bo5-siunn7-beh4 ke1-a2
+sw02001-A_000000-534929-0150911-0152384
+sw02001-A_000000-534929-0152384-0153728 sio1-me7 khiau2-loo7 honn3 gua2 beh4 hun1 khi3 hoo7 gua2 khi3 e5 be7 tsuann2 sin1-kai3-tshu2-hun1 bo5 ooh4
+sw02001-A_000000-534929-0153728-0156585
+sw02001-A_000000-534929-0156585-0158549 hit4 si5 siu7 liat8-tsoo2 boo2 bo5 siu7 ling5-lik8
+sw02001-A_000000-534929-0158549-0159631 ah4 khuann3 sann1 u7 gua2 ma7 bo5 tsua2-tiau5
+sw02001-A_000000-534929-0159631-0161117 hit4 me5 tsu1-se3 sui2 oo1 gua2 e5 si5 siann2-mih4
+sw02001-A_000000-534929-0161117-0162404 tong5-tong5 a2-bo5 gua2 e5 si5 honnh4 m7-si7 ho2 tse7 tsiah4-si7 lin2 siu1-sing5 tsing2-ko3 e5 ho2 ki3-jian5 lah4 siunn7 siu7 siu7 tsha1-put4-to1 a1 iu5-thing2 a1-ing1
+sw02001-A_000000-534929-0162404-0163803 koh4-khah4
+sw02001-A_000000-534929-0163803-0165253 su3-hok4 kiu3-mia7 nng7 e5 tua7 iok4-hue7 beh4 khi1-hu7 i3-sik4 siann1
+sw02001-A_000000-534929-0165253-0166711 m7 pi2-tik4 sian1-koo1 mui2 guan7-i3 pue1 li2 mui2-jit8 tsiu1-pinn1 sing3 e5 neh4
+sw02001-A_000000-534929-0166711-0168163 tshan3-lan7 sio2-tan2 e5 soo2 bo5 lim1-tsiu2 leh4 siu2-hoo7 oo1 tsiok4 khuann3-mai7 ne1 tsit4 e5 ia7 to7 tsiong1 i1 nng7 e5 siu2-hoo7 su7-bu7 tshik4-tsiau2-a2
+sw02001-A_000000-534929-0168163-0169522 kau3 su1-hu7 su3-hok4 tioh8-bo5 tsit4-tsiong2 si7 ai3 u7 gua7-ku2-ooh4 hm5 tsi2-iau3 tshing7 u7 sann1 u7 tsu2-pan7 mah4
+sw02001-A_000000-534929-0169522-0170947 tan5 u7 sio2-sio2 sing5-tsiu7 tsiah4 kong2 gua2 kio3-tso3 tshian1-li2-gan2 mui2 tsit8 te3 piann3 bak8-tsiu1 e7-tang3 su7-but8 loo7 jit8-jit8
+sw02001-A_000000-534929-0170947-0171369 tua7-i5-a2 sun7-hong1-ni2 tshian1-li2 i2-gua7 e5 sia2 long2 thiann1 e5 tioh8
+sw02001-A_000000-534929-0171369-0173599
+sw02001-A_000000-534929-0173599-0175829
+sw02001-A_000000-534929-0175829-0178060
+sw02001-A_000000-534929-0178060-0178866 siong7-ha7
+sw02001-A_000000-534929-0178866-0181342 to7 king1-ing5-i1 siong7 tshun1-lok8 tsui2 tsui2 sian1-li2 ban7-but8 li2 put4-tsing3 i1 sing1 tsui2 ki1 pak4 se3 i1 jiok8-sin1 tsi2 su7 ki1 li2 lun7 jio7 si7 tsui2
+sw02001-A_000000-534929-0181342-0183818 i1 kong2 king1 hiong3 tsia1 bok8 ki1 ling2-siu3 koo3 liu5 tsi2 siunn7 kong2 liok8 tsinn5 sing1 tiong1 i1 ju2-hiunn1 poo7 lin2
+sw02001-A_000000-534929-0183818-0185031
+sw02001-A_000000-534929-0185031-0186475 bun5-ji7 u7-si5 lu2-tsu2 huat4-sing1 siu1-lian7 si7 iau2 sui5-sin1 hiu1-hiu1
+sw02001-A_000000-534929-0186475-0187950 un1 tsuan5 khi3 huah4 sin1 sim1-kuann1 li2-sing3 to7 gi2 tam7-poh8-a2 siong7-tsio2 pau1-kuah4 koo2-tsa2 mia5
+sw02001-A_000000-534929-0187950-0189435 hng5-a2 khi3 to2-ui7 li7-ian5 lam5-mng5 koo2-tsa2-bi7 tshue7 su1-kho2 ti7-leh4 hioh4-khun3 piau2-hian7 ho2-ki1-hue7
+sw02001-A_000000-534929-0189435-0189659 gian3-khok4-khok4 bong5-hun5-khinn1
+sw02001-A_000000-534929-0189659-0192447
+sw02001-A_000000-534929-0192447-0192698 kuai1 gua2 tsong7-hong2 song3 phok4-su7
+sw02001-A_000000-534929-0192698-0194071 huah4
+sw02001-A_000000-534929-0194071-0194734
+sw02001-A_000000-534929-0194734-0196232 e5
+sw02001-A_000000-534929-0196232-0196277
+sw02001-A_000000-534929-0196277-0198869
+sw02001-A_000000-534929-0198869-0201462
+sw02001-A_000000-534929-0201462-0202935
+sw02001-A_000000-534929-0202935-0205575
+sw02001-A_000000-534929-0205575-0206275 huan1-a2 u7 gua2 koh4 po2-hoo7 lang5 huan1-hu3
+sw02001-A_000000-534929-0206275-0207748 gua2 e5
+sw02001-A_000000-534929-0207748-0209241 li2 nng7 e5 ai3 kho2-kuann1 kho2-tshu2 oo1
+sw02001-A_000000-534929-0209241-0210635 gua2 put4-ko3 an2-tsuann2 phainn2 po5-a2 ho2 sng3 gua2 thiann1 li2 na7 lin2 ling2-to7 bun5-ji7 tau3-tin7 tng7 hu1 ng5 an2-nia5
+sw02001-A_000000-534929-0210635-0212131 an2-ne1 hong1 an2-nia5 ho2 gueh8-niu5 nia2 oo1-too2-bai2-hang5 a1-niu5 khuann3-mai7-leh4 ooh4 li2 khah4 tua7-han3 a1 ma2 phak8 khah4 oo1 han7-tiann7 e5 tsiok4 siu1-li2 ah4 nia2 gua2 ma7 si7 tann2-kau2 buan2-tsiok4 siunn7 li2 e5
+sw02001-A_000000-534929-0212131-0213167 be7 iau1-kuai3 mng7-iann5 kin2
+sw02001-A_000000-534929-0213167-0214356 bak8-sai2
+sw02001-A_000000-534929-0214356-0215558 kiu3-se3 li2 mai3 khuann3 e5 bo5-khi3 pin1-nng5 e5 tsin1-tua7 neh4
+sw02001-A_000000-534929-0215558-0217048 m7-bian2 khi2-khi3 bo5 ai3 tann1 tshut4-mng5 sit8-tsai7 hit4 tsiah4 koo2-tsui1-e5
+sw02001-A_000000-534929-0217048-0218503 gua2 ka7 phoo5-thann2 ka7 i1 lai5 to1-sia7 lai5 ho2-lim1 beh4 tshiann2 li2 po2-pi3 tak8-e5 ping5-an1 kian7-khong1 it4-tshe3 sui5-si5 khi3
+sw02001-A_000000-534929-0218503-0219541 kuai1 hong5-ik4 na7 beh4 tng2-lai5 neh4
+sw02001-A_000000-534929-0219541-0220940
+sw02001-A_000000-534929-0220940-0222350 ho2 thai3-ia5 tshian1-li2-kiann3 sun7-hong1-ni2 lai5 thiann1 li2 e5 huan1-hu3 e5 tsit4 e5 put8-siong7 a1-li2-kang2 tshe7 li2 ka7 li2 kong2 gua2 khuann3 hu3-kin7 huat4-sing1 sim2-mih8 tai7-tsi3
+sw02001-A_000000-534929-0222350-0223828 siang7 hai2-huann7 gua2 e5 theh8 li2 thiann1 bo5-liau5 gua2 u7 khuann3 pit4-tsia2 koh4-khah4 tshing1-tsho2 lah4 oo1-peh8 ho2 ah4 lah4 ho2 ah4 lah4 li2 nng7-e5 tso3-hue2 tshiann2 kah4 khuann3 neh4
+sw02001-A_000000-534929-0223828-0225325 ho2 lah4 ma7 ai3 ho5-hong3 e5 sann1 kong2 gua2 beh4 u7 lang5 tshiu7-na5 khong3-ia2 khong3-ia2
+sw02001-A_000000-534929-0225325-0226787 gua2 tsia1 lan2 kau3-tann1 kiann5-kue3 ne1 hngh4 ke2-sian1 i2-king1 a1-ma2 khuann3 long2 bue7 tshing1-tshoo2 a1 mai7-leh4
+sw02001-A_000000-534929-0226787-0228281 tsit4 thoo2 tak8-ke1 long2 tshui3 siok8 khau3 he1 lui5-kong1-kha3 tshue7 tsioh4-khau2 bo5 li2 e5 ping5-iu2 si7 siann2-mih4 ah4 tse7 tshiu7-na5 lai7-te2 sia2 tsiah4-ni2-tse7 liam5-mi1 hong5-ue7 siann1 nia2 beh4 thang1 teh4 kio3 thiann1 be7 tsing1-hok8 tsi2-u7 khau3 bue7-ing7-eh4 guan2 kio3 be7 jin7-tong5 oh8 buat8-niu5
+sw02001-A_000000-534929-0228281-0229505 soo2 sia2 li2 to1-sia7 li2 lai5 tshut4-gua7 na7-si7 tsai1-iann2 i1 kiam2 m7 tsai1 loo7 u7 kam1-guan7 lin2 ma7 bo5 iau3-kin2 mai3 tshue7 tioh8 hong1-hiong3 e5 bo5 an2-ne1 ooh4
+sw02001-A_000000-534929-0229505-0230986 beh4 khi3 li2 tioh8 too1-hue7 bian2 huan5-lo2 lah4 i1 mng7 long2 tsiok4 khiau1 e5 an2-tsuann2 in1 nng7 e5 tsit4-ma2 it4-ting7 tsiok4
+sw02001-A_000000-534929-0230986-0232353 kia3 lan2 tsuat8-tui3 e5 tshui3 tioh8 in1 na7 kuan1-he7 a1 lin2 tian7-ue7 au7 hoo7 gua2 thiann1 tan5 an2-ne1 kiok8 he1 gua2 e5 huat4-too7 hue5-koo3
+sw02001-A_000000-534929-0232353-0235048 tiann7 tiann7 tiann7 tit8-tit8
+sw02001-A_000000-534929-0235048-0236237 neh4
+sw02001-A_000000-534929-0236237-0237659 buat8-niu5 li2 bue7 bu2-khi3 khun3 tsiu7-si7 khi3 sing3-siann5 ti7 gua2 e5 kha1 siunn7-beh4 bue7 ni5-ki2 sun7-sua3 e5 lang5 tsiau3-koo3-li2 ia7 bian2 lah4 gun2 tsik4-si5 li7-khui1 tsit8-tsam7-a2 sin5-king1-kho1 tng2 lai5 an2-tsuann2 gua2 tng2-lai5 sun7
+sw02001-A_000000-534929-0237659-0238960 tsap8-hui3 tsiann5-sit8 e5 sio2-tan2-leh4 tng2-lai5 be7 tioh8 ai3 sang3 gua2 gua2 siann2-mih4 si5-tsun7 bat4 it4-phian3 li2 khuann3 tsin1 phue3-hap8 mui2 tsit8 kong2 khong3-ia2 ka1-ki7 po2-tiong7 iah8 khah4-tsa2 tng2-lai5 ooh4
+sw02001-A_000000-534929-0238960-0240132 ma7-si7 tsit8-si3-lang5 long2 e5 su7 e5 sin1-khu1-pinn1 m7-tsai1 mng7-e5 thing3-hau7 me5 sio1-siang7
+sw02001-A_000000-534929-0240132-0242432
+sw02001-A_000000-534929-0242432-0244732 be7 to3-tng2-lai5 au7 sik8-sai7-a1 khi3 khi3 pian3 huah4 kio3 huan1-ik8 phai3-tshut4 hai7 na7 an2-ne1 to7 e7-tang3 kiam2-tsio2 lang5 kah4 tsun2-pi7 hi1-sing1 a1
+sw02001-A_000000-534929-0244746-0247063 tan5-lui5-kong1 a1 si7-an2-nua2 tsai1-iann2
+sw02001-A_000000-534929-0247063-0249379 iam5 phoo2 ue7 phoo2-too7 tng2-lai5 gua2 m7 tsai1 a1 hun1-tui7 to2-ui7 khi3 tshian1-li2-kiann3 bi2-le7 gua2 gua2-e5 e7-tang3 khuann3-tioh8 hun1-piat8 tsau2 gua2 tsin1 ho2 e5 e7-tang3 thiann1-tioh8 tsin1-tsiann3 tan5-lui5-kong1-siann1 khuann3-tioh8 hun1-tso3 hong1-hiong3 tong1-si5 tsau2-jip8 the2-tsit4
+sw02001-A_000000-534929-0249379-0251694 tann1 khi2-lai5 ai3-sioh4 sim1 tua7-hong1-hoo7 beh4 lai5 a1 bian2-kiong2 an2-ne1 sian1-sinn1 tsiah4 tsai1 ho2 ho2-ho2 gian2-kiu3 tsit4-e5 huat4-hui1 mui2 tsit8 e5 lang5 e5 tsai3-lim5 to7 e7-tang3 kiu3 koh4-khah4 tsue3 tshun1-bin5 tsit8-e7-a2 tsit4 e5 a1-kong1
+sw02001-A_000000-534929-0251694-0251754
+sw02001-A_000000-534929-0251754-0254326
+sw02001-A_000000-534929-0254326-0256898
+sw02001-A_000000-534929-0256898-0259469
+sw02001-A_000000-534929-0259469-0262042
+sw02001-A_000000-534929-0262042-0264614
+sw02001-A_000000-534929-0264614-0267187
+sw02001-A_000000-534929-0267187-0268650 ai3 sng3 sia7-hue7 guan5-lai5 tsai1-iann2 lah4 tsit8 siang1 ka7 li2 khi1-hu7
+sw02001-A_000000-534929-0268650-0269864 ma7 ho2 si7 gua2 bat4 ling5-tsun5-pe5 m7 koh4 e5 me5-tshia1 gua2 tsue7-tsue7 lang5 lai5 hai2-te2 hiann1-ko1 gua7 ni5 ia7 tiu5-pi7 ma7 iann5-kue3
+sw02001-A_000000-534929-0269864-0270745 tau3-te2 si7 gua2 khuann3 tioh8 pian3 e5 tso3 tshui3-phue3-a2 lah4
+sw02001-A_000000-534929-0270745-0271827 ti7 e5 si5-tsun7 hong3-iann5 jiok4 nua7 bo5 ue7 siunn7 beh4 kiu3 i1 bo5 bue7 siu7 ku7-ni5 e5 lim5
+sw02001-A_000000-534929-0271827-0273323 ma7 kong2 si7 beh4 ho2 pinn7-lang5 mai3 khau2-bi7 si7 siu7 sian7-liong5 ah4 gua2 si7 the3 pat8-lang5 tsue7-siok8 hai2-khau2 tsai1 khau3 a1 lang5 an2-ne1 sui5-au7 ki5-sit8 senn1-jit8 a1-nia5
+sw02001-A_000000-534929-0273323-0274703 phian3-gua2 gua2 ia7 sing3-tshiu2 sui2 e5 a1 nia2 na7 tioh8 lang5 tsiah4 koh4 hong5-ik4 tshu3-kha1 ah4-be7-tng2-lai5 gua2 e5 thi3-penn5-thau5 khuann3-mai7-a2 bun5-ji7-hua3
+sw02001-A_000000-534929-0274703-0276197 li2 e5 khah4 sue1-bi5 a1 pai2 ia7 bo5 kho2-ling5 beh4 khi3 hoo7 thau5-tsing5 bong5-bu7
+sw02001-A_000000-534929-0276197-0277685 kau3 iau2 u7 huat4-hui1 tso3 khuai3-lok8 thiann1-tioh8 hai2-siong7 e5 hong1-huat4 tsok4-kuai3 u7 tsiah4 a1-ma2 ah4 tioh8 i1 si7-an2-nua2 ah4-be7-tng2-lai5 kam2 e5 si5 tu2-tioh8 sim2-mih8 hui5-hiam2
+sw02001-A_000000-534929-0277685-0278337 a1-tia1
+sw02001-A_000000-534929-0278337-0280339
+sw02001-A_000000-534929-0280339-0280618 gua2 e5 e5
+sw02001-A_000000-534929-0280618-0282271 gua2
+sw02001-A_000000-534929-0282271-0282381 kann2 u7 pun2-lai5-honnh4
+sw02001-A_000000-534929-0282381-0284729
+sw02001-A_000000-534929-0284729-0287071 khuann3
+sw02001-A_000000-534929-0287071-0289413
+sw02001-A_000000-534929-0289413-0291755 a1-tia1
+sw02001-A_000000-534929-0291755-0293022 a1-tiong1 a1-peh4 ho2-ka1-tsai3 u7 tsit8 phuann3-kuann1-tiunn2 be7-tsio2
+sw02001-A_000000-534929-0293022-0294378 kong1-kho3 lai5 u7 bo5 si7 gua2 e5 tsu3-i3 long2 si7 li2 hoo7 gua2 e5 ling5-kam2 tioh8 ah4
+sw02001-A_000000-534929-0294378-0295857 gu5 a1-tia1 an2-tsuann2
+sw02001-A_000000-534929-0295857-0297308 buat8-niu5 liah8 khun3-bue7-khi3 iau2 m7 kin1-a2-jit8 li2 tso3 liau2 tsin1 ho2 li2 kam2 tsai1-iann2 tshun1-bin5 tak8-e5 long2 tsok4 kam2-sia7 li2 e5 a1-tia1 si7-an2-tsuann2 tshut4-hai2 tsiah4-ni7-a2 hui5-hiam2 tak8-e5
+sw02001-A_000000-534929-0297308-0298628 iah8-si7 beh4 khi3 le5 tse7 long2 si7 ui7-tioh8 sing1-uah8 jin5-sing1 bu5-siong5 tsit8-pha1 sio2-sio2 e5 tiau3-hue5 te7-tang7 kio3 han7-tse3 lang5 honnh4
+sw02001-A_000000-534929-0298628-0301204 khah4-su1 e7-tang3 tshin1-tshiunn7 pak4-tau2-tshit4-tshinn1 hiah4-ni7-a2 kam2 m7-tioh8 e7-tang3 pang1-tsoo7 koh4-khah4 tse7 lang5
+sw02001-A_000000-534929-0301204-0303457 li2
+sw02001-A_000000-534929-0303457-0305710
+sw02001-A_000000-534929-0305710-0306650 thinn1-pe7 gua2 niu5-a2 thiann1 khuann3-mai7-leh4 ma7-tsai1 kau3-sik4 hoo7 tshu3-lai7 ah4
+sw02001-A_000000-534929-0306650-0309573 li2 si7 ia7-si7 kau3 koh4 tsit8 kang1 to7-si7 tshing1-bing5 khi2-khi3 ha7-kang3 khi3-liu5 gi7-te5 khi3 tshiong1-ki1 thinn1-ting2 mi5-a2-tsai3 si7 tshut4-lai5 liah8 i1 e5 ho2-thinn1 li2 khuann3 li2 khuann3
+sw02001-A_000000-534929-0309573-0312259 tsin1-kin2 tioh8-beh4 loh8-hoo7 a1 tsio2 tai7-ke1 kin2 tng2-khi3
+sw02001-A_000000-534929-0312259-0313971 tsin1
+sw02001-A_000000-534929-0313971-0315320 guan5-liong7 uan1-ke1 gua2 beh4 hoo7 li2 ti7 tsia1 phoo2-kip8 beh4 tshua7 siann2-mih4 tai7-tsi3 gua2 buat8-niu5 si7 hi2-su7 thinn1-tua7 hi2-su7 lah4 kuan7-lo2-ia5 lai5 lan2 tshu3-lai7 sang3 pian3 beh4 ka7 li2 tsiok4-ho7 neh4
+sw02001-A_000000-534929-0315320-0316815 a1 tsoo7-li2 khi3-lah4 siu1-suah4 khi3 ka7 lang5 seh4-to1-sia7 bun5-bing5 u7 khah4 kin2 e5 ho2 lah4 m7 long2-si7 phah4 khi2-lai5 sio1 kak4-sik4 u7-kau3 boo5-iunn7 a1 am3 lai5 tsit8-kua2 puah8-pue1 hoo7 lan2 lian5 tsit4-le5 ooh4 u7 kau3-phai3 tioh8
+sw02001-A_000000-534929-0316815-0318314 u7 sim1 beh4
+sw02001-A_000000-534929-0318314-0319662 tso7-hok4 hiong1-li2 kiu5-tsing5 e5 peh4-sinn3 si7 tsue3 si7 bo5-kan2-tan1 kin1-a2-jit8 tik8-piat8 sang3-khi3 si7 tui3 kim1 pian3 lang5 tse1 si7 pun2-kuann1 tai7-piau2 tsuan5-kuan5 e5 hiong1-tshin1 be7-su1 hoo7 li2 e5 to1-sia7 e5 tai7-jin5 kua3-tsiunn7
+sw02001-A_000000-534929-0319662-0320741 buat8-niu5 sit8-tsai7 put4-kam2-tong1 to1-sia7 tai7-jin5 siong7-te3
+sw02001-A_000000-534929-0320741-0322214 su7 hi2-su7 tsiah8-tsiu2-han3 tsit8 ui7 tai7-ka3-kong1-lim5 an2-nia5 li2 sit8-tsai7 si7 tsiok4-sin1-khoo2
+sw02001-A_000000-534929-0322214-0323662 kong2 tse1 long2-si7 guan2 ing3-kai1-tso3-e5 a1 he1 sui5-si5 tse1 si7 lin2 na7-tiann7 kau3 hong5-ik4 mi5-a2-tsai3 beh4 khi3 kuan7-siann5 e5 pau1-hok8-a2 si7 si7-an2-nua2 bun5-tsiunn1 bo5-tai7-tsi3 lah4
+sw02001-A_000000-534929-0323662-0325051 honnh4 ah4 nia2 li2 kam2 e7 in1 e5 hoo7 a1-tia1 kah4 hong1-ing2 ban7 sann1 kang1 tshut4-hian7 bue7-ing7-eh4 li2 na7-tiann7 beh4 ka7 kuan7-lo2-ia5 tso3 hui3-khi3 buat8-niu5 li2 si7-m7-si7 tsit4-nng7-kang1 siunn1-kue3 tshoo1-loo2 gua2 kho2-ling5
+sw02001-A_000000-534929-0325051-0326532 si7 gua2 siunn7 siunn7 tsai1-iann2 buat8-niu5 soo2-tsai7 ki1-tsun2 am3-si5-a2 tsin1-tsiann3 theh8 un1-tian2
+sw02001-A_000000-534929-0326532-0327869 kim1 tsioh8-mng5-hiong1 an1-tsuan5 to3-tng2-lai5 tsit4 ma2 tsiann5 i2-king1 phue5-siunn1 siong7-kai3 an1-tsuan5 hai2-ing2 loo7 tsui2-loo7 lin2 lo2-ia5 li2 se3-ji7-leh4 ho2 tsa1-boo2-kiann2 bo5 ing1-kai1 lau5 ing1-kai1
+sw02001-A_000000-534929-0327869-0329220 a1-tia1 a1-tia1 tsin1 liau7-li2 tsu2-iau3 siu7 kin2 lang5 lin2 kam2 e7 ing7 e5 koh4 ban7 nng7-kang1 tsiah4 tsau2 a1 bo5 tiam3-e5 si7 kau3 kuan7-lo2-ia5 too5-bin7 khi3 bue7 beh4 ban7 ah4-m7-koh4
+sw02001-A_000000-534929-0329220-0330700 a2-m7-ko3 bue7 tui3 kam2-kak4 lin2 tsik4-jim7 tshua7 tshut4-mng5 gua2 beh4 hong3-sim1 tsi2-iau3 tsiong1 lin2 tse7-tse7 ke3-tsng1 kuan5 ho2 a1-ma2 gua2 tioh8 tng2-lai5 tshut4-mng5 tsai5-hua5
+sw02001-A_000000-534929-0330700-0332034
+sw02001-A_000000-534929-0332034-0332676 tng2-lai5 oo1 gua2 thiann1 su1-hu7
+sw02001-A_000000-534929-0332676-0335074 li2 si7 kam2-kak4 u7 si7 e5 bun7-te5 ah4 gua2 khuann3 khui1 phua3-tann2 jin5-bin5 bo5 lau7-bu2 tsit8 ke1 kam2 tit8-tit8 tsin1 ho2 ah4 gua2 i2-king1 tsuan1-tsuan1 gua2 tsing3-hue1 it4-tit8 thiam2 put4-tsi2 u7 sim2-mih8 tai7-tsi3 bing5-u7-sim1 lah4
+sw02001-A_000000-534929-0335074-0336547 hi1-bang7 si7 an2-ni1 ah4
+sw02001-A_000000-534929-0336547-0338039 m7 long2 e7 sio2-khua2 tioh8-bo5 a2-bue7 lah4
+sw02001-A_000000-534929-0338039-0339505 si7-m7-si7 tsiong1 si7 tshut4-tai7-tsi3 ah4 li2 u7 khuann3 tsiu2-tsui3 koh4 tsiann5 tse7 tsit8-ni5 ooh4
+sw02001-A_000000-534929-0339505-0340985 gua2 heh4 heh4 heh4 heh4 lin2 tau3-te2 si7 teh4 khuann3 to2-ui7 lah4 gua2 si7 kiu5 li2 khuann3 kun7-lai5 kiann5-tsun5 tng2-lai5 be7 uah8-uah8 i2-king1 khuann3 tsit8-pah4-khong3-peh4 pian3 ah4 lah4 iau2-si7 e5 gua2 ma7 thiann1 tsit8 pai2 koo3-be2 pian3 lai5 khuann3 tioh8 bo5 su1-iann5
+sw02001-A_000000-534929-0340985-0342462 bian2 huan5-lo2 lah4 ban5-lam5-gi2 it4-ting7 e7 pe3-an3 to3-tng2-lai5 e5
+sw02001-A_000000-534929-0342462-0342670
+sw02001-A_000000-534929-0342670-0345329
+sw02001-A_000000-534929-0345329-0347988 kin1-a2-lit8 hut8-kau3 tsiu7-si7
+sw02001-A_000000-534929-0347988-0348240 gua2 khuann3 m7 tsai1 bin7 lah4
+sw02001-A_000000-534929-0348240-0350983
+sw02001-A_000000-534929-0350983-0353726 pa3-tsiam3
+sw02001-A_000000-534929-0353726-0356469
+sw02001-A_000000-534929-0356469-0359212
+sw02001-A_000000-534929-0359212-0361955 bun5-bing5
+sw02001-A_000000-534929-0361955-0364699 mua2-jim7 kim1-kong1-tsioh8
+sw02001-A_000000-534929-0364699-0366160 e5 sim1-kuann1-niu5 buat8-niu5 li2 si7-an2-nua2 bo5 iau3-kin2 honnh4 ho2 kuai2-a2 king2-kai3 a1-nia5 kong2 sau3-te7 huat4-sing1 siann2-mih4 tai7-tsi3 a1-niu5 gua7-kho1 tsit4-ma2 si7-m7-si7
+sw02001-A_000000-534929-0366160-0367597 khi2-hong1 a1 si7 ia7 un7-tong7 tsiok4 huan5-lo2 lin2 na7-tiann7 a1-ko1 lin2 tan7-si7 guan5-liau7 nng7-siann5 ngoo2-siong7 a1-tong1 e5 an2-tsuann2 ai1-io7 i1 tui3 beh4 loh8-ke3 hai2-te2
+sw02001-A_000000-534929-0367597-0368751 buat8-niu5 tau3-te2 si7 huat4-sing1 siann2-mih4 tai7-tsi3 a1-niu5 sio1-loh8-khi2-lai5
+sw02001-A_000000-534929-0368751-0370883 gua2 beh4 khi3 khuann3-mai7-a2 khuann3-mai7
+sw02001-A_000000-534929-0370883-0373015 tsin1
+sw02001-A_000000-534929-0373015-0375147 li2 bun7-te5 hai2-siong7 e5 hi5-bin5 su1-iau3 hue1-kan1
+sw02001-A_000000-534929-0375147-0375351 ho2
+sw02001-A_000000-534929-0375351-0378249 bo5 ho2
+sw02001-A_000000-534929-0378249-0381147 hoo7 ho2 khuann3 kuann2-kin2 khuann3 tioh8 li2 tshing3-tsi2 thiau3-bu2 siong1-sin3 hoo7-thau5 tsiong1-sin1 ki5-sit8 bo5-kho2-ling5 ah4
+sw02001-A_000000-534929-0381147-0384045 li2 si7 an2-tsuann2 e5 khuann3-be7-tioh8 it4-tit8
+sw02001-A_000000-534929-0384045-0386943 li2-siong2 iong2-khi3
+sw02001-A_000000-534929-0386943-0389841 li2 it4-ting7 ai3 tsiu7 giau5-gi5 pha1-soo3 hoo7 hi5-bin5 e7-tang3 khuann3-tioh8 tng2-lai5 hong1-hiong3
+sw02001-A_000000-534929-0389841-0392739
+sw02001-A_000000-534929-0392739-0395637
+sw02001-A_000000-534929-0395637-0398535
+sw02001-A_000000-534929-0398535-0401439
+sw02001-A_000000-534929-0401439-0402822 tsit4-ma2 huat4 tsoo7-li2 ai3 lau5 sim1 an2-tsuann2 u7 lai5 thiann1 koh4 hia1 tshuan1-bin5 kau3 guan2 tshuan5 tso3 bok8-phiau1 hai7 kuan5 a1 mai3 tshim1 phainn2 iau2 khi3 huan1
+sw02001-A_000000-534929-0402822-0403657 gua2 li2 sin1 jit8 muai5 huat4 su7 si7 bo5-huat4 too7 lang5 hoo7 kai3 ho2 bo5
+sw02001-A_000000-534929-0403657-0406453 put4-ko3
+sw02001-A_000000-534929-0406453-0409249 buat8 niu5 it4-ting7 ai3 kam1-tok4 khun3 siat4 hap8 pian3 tsue3 sam1 huan7 se3 tang1 kiat4 huat4 tsu2 sin1 e5 tshian1 li2 tshut4 hai7 in1 tioh8
+sw02001-A_000000-534929-0409249-0412045
+sw02001-A_000000-534929-0412045-0414841 kue3-lai5
+sw02001-A_000000-534929-0414841-0417637 kong2
+sw02001-A_000000-534929-0417637-0420433
+sw02001-A_000000-534929-0420433-0423229
+sw02001-A_000000-534929-0423229-0426025
+sw02001-A_000000-534929-0426025-0428821
+sw02001-A_000000-534929-0428821-0431617 sui1-bong2 si7
+sw02001-A_000000-534929-0431617-0434413 ho2
+sw02001-A_000000-534929-0434413-0437209
+sw02001-A_000000-534929-0437209-0440005
+sw02001-A_000000-534929-0440005-0442810
+sw02001-A_000000-534929-0442828-0445246 u7 soo2 kong2 gua2 tsiong1 i1 khong3-tse3-tiau5 e5
+sw02001-A_000000-534929-0445246-0447664 kong2 khng3 e5 to7-li2 u7 hue3 bo5-tsui2 put4-ti1 ham7 tsu3-i3 bo5 hue3-but8 ti7 su7 jit8-pun2 bo5 tiong1-ng1 ge5 put4-loo7 tiong7-hu1 thian1-bing7 su7 hui1-lip8-pin1 lah4
+sw02001-A_000000-534929-0447664-0450082 i2-tsing5 ku3 ue7 thiann1 tiong7-si7 ooh4 ka7 tsai1 i1 lai5 kong2 gua2 siunn7 hiann1-tsi2 hong5-huan7 tse7 tsin1 soo2-hui3 ui7
+sw02001-A_000000-534929-0450082-0452500 liu5-long7
+sw02001-A_000000-534929-0452500-0454921 hi1-bong7
+sw02001-A_000000-534929-0454921-0456009 a1-bu2
+sw02001-A_000000-534929-0456009-0457607 tsun5-a2 ui7 tng2-lai5 si7 sim2-mih8 sit8-tsai7 si7 a1 ma2 aih4-ioh4 lin2 nng7 e5 koh4 tsit8 pai2 khi3 kiu5-poo7 loh8-hai2 hi5-bin5 ji5-tshiann2 kin2 khi3 tshue7 hong5-ik4
+sw02001-A_000000-534929-0457607-0458085 hann2 guan5-liong7 guan5-liong7
+sw02001-A_000000-534929-0458085-0460763 tong7-but8 theh8-tioh8 au7-thiann1 khong3 ioh8 a1-tik4-a2 koh4 tsuan5-bin7 sio2-ti7 ai1-siong1 phiau1-liu5 hong5-ik4 sit4-tsong1 li2 m7-thang1 koh4 siong1-sim1 tioh8 kau1-thok4 tshing1-li2
+sw02001-A_000000-534929-0460763-0463439 gua2 tai7-tsi3 liau2-au7 sim1 a1 e5 u7-huat4 ti7 tsia1 tsin1 tsiau3-koo3 ing1-kai1 khia7 ti7 e5 koh4 khah4 kuan5 soo2-tsai7 tsio3-kng1 hoo7 tshuan3-lian5 kau3 hong1-ing2 e7-tang3 khuann3-tioh8 tng2-lai5 hong1-hiong3 ping5-an1 to3-tng2-lai5
+sw02001-A_000000-534929-0463439-0466117
+sw02001-A_000000-534929-0466117-0468796
+sw02001-A_000000-534929-0468796-0471685 hng7 ho2
+sw02001-A_000000-534929-0471685-0474574 hong1-hiong3
+sw02001-A_000000-534929-0474574-0477463
+sw02001-A_000000-534929-0477463-0480352
+sw02001-A_000000-534929-0480352-0483245 bo5
+sw02001-A_000000-534929-0483245-0484638 bong5-bong5
+sw02001-A_000000-534929-0484638-0485952 lan2 beh4 an2-tsuann2 un2-tang3 beh4 khi3 ian5-tshian5 e5 ho2-se3
+sw02001-A_000000-534929-0485952-0486213 soo2-i2 pe7-bu2 lah4
+sw02001-A_000000-534929-0486213-0488930 ho2
+sw02001-A_000000-534929-0488930-0491647 sun7 hong1-bin7 hue3 koh4-beh4 i1-e5 gua2 ing1-kai1 thinn1 e5 soo2-tsai7 to1-sia7 tioh8 it4-tit8 pang1-tsoo7 gua2 bue7 phuann3-kuann1 gua2 tsin1 huann1-hi2 lin2 e5 ke3-siok8 lau5-loh8-lai5 siu1-hian3 bu5-han7 tsiau3-koo3 tshu3-bi7 su7-bu7 sin1-kim1 khai1-si2 bo5-kho2-ling5 gua2 thinn1 e5 soo2-tsai7 lin2 bo5 huat4-too7 khi3
+sw02001-A_000000-534929-0491647-0494364 a1-ing1 m7-thang1 koh4 u7 tsin1 tse7 tiam3 hia1 e5 tai7-tsi3 li2 beh4 pai3-thok4 ma7 ka2-suat4 m7-thang1 kau3 siong7-te3 lan2 hiah4 e5 koh4-tsai3 siong7 si7 si7 ooh4
+sw02001-A_000000-534929-0494364-0494882 beh4 tsi2-ho2 leh4 kau3
+sw02001-A_000000-534929-0494882-0497407 m7 sin3 ia5-soo1 khuann3 kui1 sin1-mia7 lai5-lik8 tso3 iau1-kuai3 tshau3-kann7-kann7 an2-ne1 kong2
+sw02001-A_000000-534929-0497407-0499932
+sw02001-A_000000-534929-0499932-0502457 lan2 na7 tiann7
+sw02001-A_000000-534929-0502457-0504982
+sw02001-A_000000-534929-0504982-0507507
+sw02001-A_000000-534929-0507507-0510035
+sw02001-A_000000-534929-0510055-0512877
+sw02001-A_000000-534929-0512877-0515700
+sw02001-A_000000-534929-0515700-0516882
+sw02001-A_000000-534929-0516882-0517632
+sw02001-A_000000-534929-0517632-0519214
+sw02001-A_000000-534929-0519214-0520797
+sw02001-A_000000-534929-0520797-0521209 sin1 khoo1
+sw02001-A_000000-534929-0521209-0522410 tshiann2 ni5 ni5 e5 i1 si7 li2 u7 hok8-bu7 si7 m7 si7 tiann7
+sw02001-A_000000-534929-0522410-0522757 tioh8 m7-tioh8
+sw02001-A_000000-534929-0522757-0524769 thinn1 sian1-sinn1 long2 su1-siunn2 e5 khann1-a2 pho1-long7
+sw02001-A_000000-534929-0524769-0525439 hoo7 i1 ji7 sing1 tshenn1-tshenn1 penn7
+sw02001-A_000000-534929-0525439-0527122 khuann3
+sw02001-A_000000-534929-0527122-0528805 hm5 khoo1 siunn7 sim1
+sw02001-A_000000-534929-0528805-0529630
+sw02001-A_000000-534929-0529630-0532278
+sw02001-A_000000-534929-0532278-0534927

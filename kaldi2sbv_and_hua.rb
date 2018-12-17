@@ -10,7 +10,7 @@ def to_timestamp seconds
   m_second = seconds % 100
   seconds = seconds / 100
   hour = seconds / 3600
-  minute = seconds / 60
+  minute = (seconds - 3600*hour)/ 60
   second = seconds - 3600*hour - 60*minute
   "#{hour}:#{minute.to_s.rjust(2, "0")}:#{second.to_s.rjust(2, "0")}.#{m_second}"
 end
