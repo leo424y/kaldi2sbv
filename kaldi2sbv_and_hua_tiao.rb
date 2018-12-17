@@ -39,8 +39,8 @@ text.each_line do |line|
   start_at = to_timestamp linex[0].split('-')[3]
   end_at = to_timestamp linex[0].split('-')[4]
   content = linex[1] ? linex[1..-1].join(' ') : ''
-  result << "#{start_at},#{end_at}\n#{to_hua(content, 9999)}\n#{to_hua(content, 8000)}\n" if linex[1]
+  result << "#{start_at},#{end_at}\n#{content}\n#{to_hua(content, 9999)}\n#{to_hua(content, 8000)}\n" if linex[1]
 end
 
 %x(touch output.sbv)
-File.open('output_and_hua.sbv', 'w') { |file| file.write(result.join("\n")) }
+File.open('output_and_hua_tiao.sbv', 'w') { |file| file.write(result.join("\n")) }
